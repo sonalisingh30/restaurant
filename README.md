@@ -21,9 +21,8 @@ The **Restaurant Website** is a dynamic and user-friendly application designed t
 Here are some screenshots of the **Restaurant Website**:
 
 ### Home Page
-![Home Page](./screenshots/home-page.png)
+![Home Page](<img width="50%" alt="Home-page" src="https://github.com/user-attachments/assets/1f32169d-b0dc-4dc3-bfe8-6d37bf515795">)
 
-### Menu Page![home](https://github.com/user-attachments/assets/b5eb9fa6-7a39-418c-9dfc-8a88b95931a0)
-
-![Menu Page](./screenshots/menu-page.png)
+###Responsive Page
+![Responsive ](<img width="100%" alt="Screenshot 2024-08-16 at 12 14 31 PM" src="https://github.com/user-attachments/assets/ed478c0f-3538-44c4-a0e7-e93d19498e6f">)
 
