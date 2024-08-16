@@ -23,6 +23,7 @@ Here are some screenshots of the **Restaurant Website**:
 ### Home Page
 ![Home Page](<img width="50%" alt="Home-page" src="https://github.com/user-attachments/assets/1f32169d-b0dc-4dc3-bfe8-6d37bf515795">)
 
-###Responsive Page
-![Responsive ](<img width="100%" alt="Screenshot 2024-08-16 at 12 14 31 PM" src="https://github.com/user-attachments/assets/ed478c0f-3538-44c4-a0e7-e93d19498e6f">)
+###Responsive Page<img width="281" alt="Responsive-page" src="https://github.com/user-attachments/assets/f48061c0-c3ef-4d50-9ee8-52d26a50764b">
+
+
 
