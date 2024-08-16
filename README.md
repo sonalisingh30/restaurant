@@ -2,6 +2,8 @@
 
 Welcome to the **Restaurant Website** project! This is a responsive web application built using modern web technologies.
 
+**Demo Links**
+https://sonali-restaurant-app.netlify.app
 
 The **Restaurant Website** is a dynamic and user-friendly application designed to showcase restaurant menus, services, and other essential information. The project demonstrates the use of React for creating a responsive and interactive user interface.
 
